@@ -3,7 +3,7 @@ SignLens - AI-Based Sign Language Interpreter
 A real-time web application that interprets sign language gestures using computer vision and machine learning (MediaPipe). Designed for accessibility and inclusive education.
 
 🚀 Live Demo
-**Click here to view the live project**
+https://classifiedstudentkabir.github.io/Sign-Language-Interpreter/Signlen-prototype-sign-translate/frontend/index.html
 
 ✨ Features
 Real-Time Hand Tracking: Uses MediaPipe Hands for high-performance hand landmark detection.
