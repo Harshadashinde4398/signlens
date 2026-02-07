@@ -3,7 +3,7 @@ SignLens - AI-Based Sign Language Interpreter
 A real-time web application that interprets sign language gestures using computer vision and machine learning (MediaPipe). Designed for accessibility and inclusive education.
 
 🚀 Live Demo
-**Click here to view the live project
+**Click here to view the live project**
 
 ✨ Features
 Real-Time Hand Tracking: Uses MediaPipe Hands for high-performance hand landmark detection.
@@ -30,6 +30,7 @@ And more...
 Frontend: HTML5, CSS3, JavaScript (Vanilla)
 AI/ML: MediaPipe Hands (Google), Custom Geometric Classifiers
 Deployment: GitHub Pages
+
 📂 Project Structure
 D:\hacknova\SignLens\
 ├───frontend\           # Main application code
@@ -42,10 +43,12 @@ D:\hacknova\SignLens\
 │       └───gesture-detection.js # Gesture recognition engine
 ├───backend\            # (Optional backend components)
 └───...
+
 👨‍💻 Development
 Setup
 Clone the repository:
-git clone https://github.com/classifiedstudentkabir/Sign-Language-Interpreter.git
+git clone https://github.com/Harshadashinde4398/Sign-Language-Interpreter.git
+
 Navigate to the project directory:
 cd Sign-Language-Interpreter
 Open index.html in your browser to test locally.
